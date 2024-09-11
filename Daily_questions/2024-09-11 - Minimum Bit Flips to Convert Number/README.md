@@ -27,3 +27,6 @@ Example 1:
 
 ### Constraints:
 0 <= start, goal <= 10^9
+
+
+[Solve this question on leetcode](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)

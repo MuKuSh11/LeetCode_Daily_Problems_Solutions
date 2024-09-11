@@ -18,3 +18,5 @@ Input: head = [18,6,10,3]
 ### Constraints:
 The number of nodes in the list is in the range [1, 5000].
 <br/> 1 <= Node.val <= 1000
+
+[Solve this question on leetcode](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)
